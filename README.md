@@ -19,7 +19,7 @@ The Mas_RCNN algrithm coroperates many sub-nets such as Region Proposal Net (RPN
     use pre_trained model:   
       ```python3 train --dataset=/path/to/your/dataset --model_path=/path/to/your/pre_trained_model  ```
 2. For evaluating:   
-      ```python2 evaluate --dataset=/path/to/your/dataset --model_path=/path/to/your/trained_model  ```
+      ```python3 evaluate --dataset=/path/to/your/dataset --model_path=/path/to/your/trained_model  ```
       
 # Testing
 I tested some modules of the Mask_RCNN model, check out the jupyter notebook files for details. These documents are not very well organised and I keep updating them later.   
